@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0576/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大方廣未曾有經善巧方便品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0844.xml
+    old_id: T17n0844
+hash: sha256:8beba772d65ace609c62ceac510951ee467af99f994566946e4df1b62e378cb2

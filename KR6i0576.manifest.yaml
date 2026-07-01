@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6i0576/v1
+canonical_location: https://kanripo.org/bkk/KR6i0576/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說大方廣未曾有經善巧方便品
+  identifiers:
+    alt_id:
+    - T17n0844
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0844.xml
+    old_id: T17n0844
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0576_000.yaml, hash: 'sha256:8beba772d65ace609c62ceac510951ee467af99f994566946e4df1b62e378cb2'}
+  - {seq: 1, filename: KR6i0576_001.yaml, hash: 'sha256:22ae31c7c76c12c18a261bea677068fb3bdd1dde620e0ff3593953824436a49d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0576_001.markers.yaml, hash: 'sha256:5df9e4de26282184539eacd327d8e4b7dd0b66a60d59f67f6818c697f4d8309f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0576_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1741
+  label: '佛說大方廣未曾有經善巧方便
+
+    品'
+  type: juan
+  level: 1
+hash: sha256:0ab1d9b0ff5d637f036f50c071d8de5a5729658c4573ded56489b5780f2a48ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
