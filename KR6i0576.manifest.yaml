@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0576/v1
 canonical_location: https://kanripo.org/bkk/KR6i0576/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大方廣未曾有經善巧方便品
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0576_000.yaml, hash: 'sha256:8beba772d65ace609c62ceac510951ee467af99f994566946e4df1b62e378cb2'}
-  - {seq: 1, filename: KR6i0576_001.yaml, hash: 'sha256:a884c27a5bd9afc232a5a64b2c5df44f5ac8d8d6e4e4290fd4a124c15a99993a'}
+  - {seq: 1, filename: KR6i0576_001.yaml, hash: 'sha256:604e18030b236677b8fe64625e95a884352aaa6a60107c6cc4ee658d9ac792ea'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0576_000.markers.yaml, hash: 'sha256:2a18bc74f35323ab790ba0c125719668823d7f178a488e24d895c585f6f10bbe'}
-  - {seq: 1, role: markers, filename: assets/KR6i0576_001.markers.yaml, hash: 'sha256:16da671ae280b88e89f6e3776476301f881ff1fdb050de342da3393b67d48b54'}
+  - {seq: 1, role: markers, filename: assets/KR6i0576_001.markers.yaml, hash: 'sha256:68b786a48055be3ee82d06ae3f81692b329f267a7526bf6d4cee4e3389b7d5ff'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     品'
   type: juan
   level: 1
-hash: sha256:e5c38db3d40765bbd8d5d09813156804cfa7e14bea788caceb11d69fde5146bc
+hash: sha256:ccc9ad710b30032fec9646ae879e19695a9ad65c7baea7f323e65fffe4b033d3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
